@@ -1,38 +1,85 @@
-<h1 align="center">Hi! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">¡Hola! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"> Soy Matías Daniel Fernández</h1>
 
 <p align="center">
-    <b>Welcome</b><br><br>
-    <i>
-        About me:<br>
-    </i><br>
+    <b>Analista en Sistemas de Computación · Desarrollador Web Fullstack</b><br><br>
+    <i>Apasionado por el desarrollo de software, las tecnologías emergentes, y la mejora continua.</i><br><br>
     <a href="https://www.linkedin.com/in/matias-d-fernandez">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://porfolio-matias-fernandez.web.app/portfolio">
-        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/portafolio-web-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Portfolio">
     </a>
 </p>
 
-### Languages
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Matias198)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Matias198)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Matias198)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Matias198)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Matias198)
-[![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Matias198)
+---
 
-### Technologies & Frameworks
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/Matias198)
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/Matias198)
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://hub.docker.com/u/Matias198)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://hub.docker.com/u/Matias198)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://hub.docker.com/u/Matias198)
+### 🎓 Formación Académica
 
-### OS
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Matias198)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Matias198)
+- 📚 **Analista en Sistemas de Computación** — UNaM, 2024  
+- 📖 Actualmente desarrollando tesis para la **Licenciatura en Sistemas de Información**  
+- 🛠️ Técnico en Industria de Procesos – EPET N.º10 (2017)
+
+---
+
+### 🧠 Certificaciones destacadas
+
+- ✅ Python para la Industria 4.0 – IngeLearn (2024)  
+- ✅ AWS Academy Cloud Foundations – AWS (2023)  
+- ✅ Scrum Foundation Professional Certificate – CertiProf (2023)  
+- ✅ Fullstack Java Springboot – Argentina Programa (2022)  
+- ✅ Fullstack Web (PHP y Java) – PoloTIC Misiones  
+- ✅ Taller de Videojuegos – PoloTIC + ADVA  
+
+---
+
+### 💻 Tecnologías y herramientas
+
+#### Lenguajes
+[![Java](https://img.shields.io/badge/java-%23f89820.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)](#)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![MYSQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![PGSQL](https://img.shields.io/badge/postgres-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+
+#### Frameworks y herramientas
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#)
+[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](#)
+[![Flet](https://img.shields.io/badge/flet-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](#)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+
+#### Otras herramientas
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
+
+### 🧩 Conocimientos complementarios
+
+- Desarrollo de APIs RESTful
+- Análisis de datos con Python y Machine Learning (nivel inicial)
+- Diseño y modelado con herramientas CASE
+- Buen manejo de sistemas operativos: Linux, Windows y Docker
+- Metodologías ágiles y trabajo en equipo
+
+---
+
+### 🧑‍💼 Experiencia reciente
+
+- 📍 \*\*Auditoría Informática\*\* en la Municipalidad de Apóstoles  
+  Relevamiento, análisis, redacción de informes ejecutivos y técnicos (2023)
+
+---
 
 <details>
+<summary>📊 Stats de GitHub</summary>
 <p align="center">
   <a href="https://github.com/Matias198">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matias198&theme=transparent" />
@@ -54,18 +101,3 @@
     <img src="https://komarev.com/ghpvc/?username=Matias198&color=blueviolet&style=flat" />
   </a>
 </p>
-
-<!--
-**Matias198/Matias198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
